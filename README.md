@@ -10,7 +10,7 @@ I am a Bachelor of Computer Applications graduate looking for my first opportuni
 
 - Completed my BCA (2022 – 2025) at HKBK Degree College, Bengaluru.
 - Completed an internship in Machine Learning and Python for AI at Cranes Software International, Bengaluru (January 2025 – March 2025).
-- Built two machine learning projects: phishing website detection and email spam detection (repositories coming soon).
+- Built two machine learning projects: phishing website detection and email spam detection (the email spam repository is coming soon).
 - Currently learning Machine Learning.
 - Looking for an entry-level role where I can apply what I know and keep learning.
 
@@ -65,7 +65,7 @@ Visual Studio Code · Jupyter Notebook · Google Colab · MySQL Workbench · Git
 
 | Project | Description | Tools | Status |
 | --- | --- | --- | --- |
-| Phishing Website Detection using Machine Learning | Classifies websites as legitimate or phishing using URL-based features (such as length, special characters, sub-domains, IP address and HTTPS) and website behavior. Models were validated on a separate test set. | Python, Pandas, NumPy, scikit-learn | Repository coming soon |
+| [Phishing Website Detection using Machine Learning](https://github.com/charujithjs/phishing-website-detection-ml) | Classifies websites as legitimate or phishing using URL-based features (such as length, special characters, sub-domains, IP address and HTTPS). Includes a Flask web app for scanning URLs. Models were validated on a separate test set. | Python, Pandas, NumPy, scikit-learn, XGBoost, Flask, MySQL | Completed |
 | Email Spam Detection using Machine Learning | A machine learning model that classifies emails as spam or ham (not spam). | Python, Machine Learning | Repository coming soon |
 
 <!--
