@@ -81,6 +81,12 @@ When a project repository is uploaded, change its first cell and last cell like 
 Only add results or accuracy figures that you have verified by running the project yourself.
 -->
 
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=charujithjs&show_icons=true&theme=default&hide_title=false&count_private=false" alt="Charujith's GitHub stats" />
+</p>
+
 ## Certifications
 
 | Certification | Issuer | Date |
