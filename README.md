@@ -43,6 +43,10 @@ January 2025 – March 2025
 | Data libraries | Pandas, NumPy | Basic / practical exposure |
 | Machine learning libraries | Scikit-learn | Exposure through academic project work |
 
+### Currently Learning
+
+- Machine Learning
+
 ### Area of Interest
 
 - Cybersecurity
